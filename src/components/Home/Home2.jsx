@@ -20,7 +20,7 @@ function Home2() {
                         </h1>
                         <p className="home-about-body">
                             <p style={{ fontSize: "2em" }}>
-                                I'm an {"  "}{" "}
+                                I'm {"   "}
                                 <span
                                     className="purple"
                                     style={{ fontWeight: "bold" }}
